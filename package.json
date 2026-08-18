@@ -1,0 +1,14 @@
+{
+  "name": "zhishe-common",
+  "version": "0.1.0",
+  "description": "知设 DSH 插件共享基础设施 - 知识库加载/检索/基准价格/风险评估",
+  "type": "module",
+  "exports": {
+    "./knowledge": "./lib/knowledge.js",
+    "./benchmark": "./lib/benchmark.js",
+    "./risk": "./lib/risk.js"
+  },
+  "files": ["lib"],
+  "keywords": ["dsh-plugin", "知设", "共享"],
+  "license": "MIT"
+}
