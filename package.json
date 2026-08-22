@@ -8,7 +8,18 @@
     "./benchmark": "./lib/benchmark.js",
     "./risk": "./lib/risk.js"
   },
-  "files": ["lib"],
-  "keywords": ["dsh-plugin", "知设", "共享"],
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "dsh-plugin",
+    "renovation",
+    "shared-library",
+    "knowledge-base",
+    "benchmark",
+    "risk-assessment",
+    "知设",
+    "共享"
+  ],
   "license": "MIT"
 }
